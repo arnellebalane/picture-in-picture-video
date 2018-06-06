@@ -22,6 +22,6 @@ video.addEventListener('enterpictureinpicture', () => {
     button.textContent = 'Exit Picture-in-Picture';
 });
 
-video.addEventListener('exitpictureinpicture', () => {
+video.addEventListener('leavepictureinpicture', () => {
     button.textContent = 'Enter Picture-in-Picture';
 });
