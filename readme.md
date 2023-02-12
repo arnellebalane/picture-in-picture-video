@@ -23,4 +23,4 @@ $ python -m SimpleHTTPServer
 
 
 [1]: https://developers.google.com/web/updates/2017/09/picture-in-picture
-[2]: https://picture-in-picture-video.arnelle.me/
+[2]: https://picture-in-picture-video.arnelle.dev/
